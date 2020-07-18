@@ -1,0 +1,181 @@
+Star_Allele,star_allele_superclass,version,sample,Function,Evidence_Level,score
+CYP2D6*1.001,1,1,CYP2D6_1_001,Normal,Definitive,1
+CYP2D6*1.002,1,2,CYP2D6_1_002,Normal,Definitive,1
+CYP2D6*1.003,1,3,CYP2D6_1_003,Normal,Limited,1
+CYP2D6*1.004,1,4,CYP2D6_1_004,Normal,Limited,1
+CYP2D6*1.005,1,5,CYP2D6_1_005,Normal,Definitive,1
+CYP2D6*1.006,1,6,CYP2D6_1_006,Normal,Definitive,1
+CYP2D6*1.007,1,7,CYP2D6_1_007,Normal,Definitive,1
+CYP2D6*1.008,1,8,CYP2D6_1_008,Normal,Definitive,1
+CYP2D6*1.009,1,9,CYP2D6_1_009,Normal,Definitive,1
+CYP2D6*1.010,1,10,CYP2D6_1_010,Normal,Definitive,1
+CYP2D6*1.011,1,11,CYP2D6_1_011,Normal,Definitive,1
+CYP2D6*1.012,1,12,CYP2D6_1_012,Normal,Definitive,1
+CYP2D6*1.013,1,13,CYP2D6_1_013,Normal,Definitive,1
+CYP2D6*1.014,1,14,CYP2D6_1_014,Normal,Definitive,1
+CYP2D6*1.015,1,15,CYP2D6_1_015,Normal,Definitive,1
+CYP2D6*1.016,1,16,CYP2D6_1_016,Normal,Definitive,1
+CYP2D6*2.001,2,1,CYP2D6_2_001,Normal,Definitive,1
+CYP2D6*2.002,2,2,CYP2D6_2_002,Normal,Limited,1
+CYP2D6*2.003,2,3,CYP2D6_2_003,Normal,Limited,1
+CYP2D6*2.004,2,4,CYP2D6_2_004,Normal,Limited,1
+CYP2D6*2.005,2,5,CYP2D6_2_005,Normal,Limited,1
+CYP2D6*2.006,2,6,CYP2D6_2_006,Normal,Limited,1
+CYP2D6*2.007,2,7,CYP2D6_2_007,Normal,Limited,1
+CYP2D6*2.008,2,8,CYP2D6_2_008,Normal,Limited,1
+CYP2D6*2.009,2,9,CYP2D6_2_009,Normal,Limited,1
+CYP2D6*2.010,2,10,CYP2D6_2_010,Normal,Limited,1
+CYP2D6*2.011,2,11,CYP2D6_2_011,Normal,Limited,1
+CYP2D6*2.012,2,12,CYP2D6_2_012,Normal,Definitive,1
+CYP2D6*2.013,2,13,CYP2D6_2_013,Normal,Definitive,1
+CYP2D6*2.014,2,14,CYP2D6_2_014,Normal,Definitive,1
+CYP2D6*3.001,3,1,CYP2D6_3_001,No function,Definitive,0
+CYP2D6*3.002,3,2,CYP2D6_3_002,No function,Limited,0
+CYP2D6*4.001,4,1,CYP2D6_4_001,No function,Definitive,0
+CYP2D6*4.002,4,2,CYP2D6_4_002,No function,Limited,0
+CYP2D6*4.003,4,3,CYP2D6_4_003,No function,Limited,0
+CYP2D6*4.004,4,4,CYP2D6_4_004,No function,Definitive,0
+CYP2D6*4.005,4,5,CYP2D6_4_005,No function,Limited,0
+CYP2D6*4.006,4,6,CYP2D6_4_006,No function,Limited,0
+CYP2D6*4.007,4,7,CYP2D6_4_007,No function,Limited,0
+CYP2D6*4.008,4,8,CYP2D6_4_008,No function,Limited,0
+CYP2D6*4.009,4,9,CYP2D6_4_009,No function,Limited,0
+CYP2D6*4.010,4,10,CYP2D6_4_010,No function,Limited,0
+CYP2D6*4.011,4,11,CYP2D6_4_011,No function,Limited,0
+CYP2D6*4.012,4,12,CYP2D6_4_012,No function,Definitive,0
+CYP2D6*4.013,4,13,CYP2D6_4_013,No function,Definitive,0
+CYP2D6*4.014,4,14,CYP2D6_4_014,No function,Definitive,0
+CYP2D6*4.015,4,15,CYP2D6_4_015,No function,Definitive,0
+CYP2D6*4.016,4,16,CYP2D6_4_016,No function,Definitive,0
+CYP2D6*4.017,4,17,CYP2D6_4_017,No function,Definitive,0
+CYP2D6*4.018,4,18,CYP2D6_4_018,No function,Definitive,0
+CYP2D6*5.001,5,1,CYP2D6_5_001,No function,None,0
+CYP2D6*6.001,6,1,CYP2D6_6_001,No function,Limited,0
+CYP2D6*6.002,6,2,CYP2D6_6_002,No function,Limited,0
+CYP2D6*6.003,6,3,CYP2D6_6_003,No function,Limited,0
+CYP2D6*6.004,6,4,CYP2D6_6_004,No function,Limited,0
+CYP2D6*6.005,6,5,CYP2D6_6_005,No function,Definitive,0
+CYP2D6*6.006,6,6,CYP2D6_6_006,No function,Definitive,0
+CYP2D6*7.001,7,1,CYP2D6_7_001,No function,Definitive,0
+CYP2D6*8.001,8,1,CYP2D6_8_001,No function,Limited,0
+CYP2D6*9.001,9,1,CYP2D6_9_001,Decreased function,Definitive,0.5
+CYP2D6*10.001,10,1,CYP2D6_10_001,Decreased function,Limited,0.5
+CYP2D6*10.002,10,2,CYP2D6_10_002,Decreased function,Definitive,0.5
+CYP2D6*10.003,10,3,CYP2D6_10_003,Decreased function,Limited,0.5
+CYP2D6*11.001,11,1,CYP2D6_11_001,No function,Definitive,0
+CYP2D6*12.001,12,1,CYP2D6_12_001,No function,Limited,0
+CYP2D6*12.002,12,2,CYP2D6_12_002,No function,Definitive,0
+CYP2D6*13.001,13,1,CYP2D6_13_001,No function,None,0
+CYP2D6*14.001,14,1,CYP2D6_14_001,Decreased function,Definitive,0.5
+CYP2D6*15.001,15,1,CYP2D6_15_001,No function,Definitive,0
+CYP2D6*15.002,15,2,CYP2D6_15_002,No function,Definitive,0
+CYP2D6*15.003,15,3,CYP2D6_15_003,No function,Definitive,0
+CYP2D6*17.001,17,1,CYP2D6_17_001,Decreased function,Definitive,0.5
+CYP2D6*17.002,17,2,CYP2D6_17_002,Decreased function,Definitive,0.5
+CYP2D6*18.001,18,1,CYP2D6_18_001,No function,Limited,0
+CYP2D6*19.001,19,1,CYP2D6_19_001,No function,Limited,0
+CYP2D6*20.001,20,1,CYP2D6_20_001,No function,Limited,0
+CYP2D6*21.001,21,1,CYP2D6_21_001,No function,Limited,0
+CYP2D6*21.002,21,2,CYP2D6_21_002,No function,Definitive,0
+CYP2D6*22.001,22,1,CYP2D6_22_001,Uncertain,Definitive,0.5
+CYP2D6*23.001,23,1,CYP2D6_23_001,Uncertain,Limited,1
+CYP2D6*24.001,24,1,CYP2D6_24_001,Uncertain,Limited,1
+CYP2D6*25.001,25,1,CYP2D6_25_001,Uncertain,Limited,1
+CYP2D6*26.001,26,1,CYP2D6_26_001,Uncertain,Limited,1
+CYP2D6*27.001,27,1,CYP2D6_27_001,Normal,Limited,1
+CYP2D6*28.001,28,1,CYP2D6_28_001,Uncertain,Definitive,0.5
+CYP2D6*29.001,29,1,CYP2D6_29_001,Decreased function,Definitive,0.5
+CYP2D6*30.001,30,1,CYP2D6_30_001,Uncertain,Limited,0.5
+CYP2D6*31.001,31,1,CYP2D6_31_001,No function,Definitive,0
+CYP2D6*32.001,32,1,CYP2D6_32_001,Unknown,Limited,1
+CYP2D6*33.001,33,1,CYP2D6_33_001,Normal,Definitive,1
+CYP2D6*34.001,34,1,CYP2D6_34_001,Normal,Limited,1
+CYP2D6*35.001,35,1,CYP2D6_35_001,Normal,Definitive,1
+CYP2D6*35.002,35,2,CYP2D6_35_002,Normal,Definitive,1
+CYP2D6*36.001,36,1,CYP2D6_36_001,No function,Definitive,0
+CYP2D6*37.001,37,1,CYP2D6_37_001,Uncertain,Limited,0.5
+CYP2D6*38.001,38,1,CYP2D6_38_001,No function,Limited,0
+CYP2D6*39.001,39,1,CYP2D6_39_001,Normal,Definitive,1
+CYP2D6*40.001,40,1,CYP2D6_40_001,No function,Definitive,0
+CYP2D6*41.001,41,1,CYP2D6_41_001,Decreased function,Definitive,0.5
+CYP2D6*41.002,41,2,CYP2D6_41_002,Decreased function,Definitive,0.5
+CYP2D6*41.003,41,3,CYP2D6_41_003,Decreased function,Definitive,0.5
+CYP2D6*42.001,42,1,CYP2D6_42_001,No function,Definitive,0
+CYP2D6*43.001,43,1,CYP2D6_43_001,Uncertain,Definitive,0.5
+CYP2D6*43.002,43,2,CYP2D6_43_002,Uncertain,Definitive,1
+CYP2D6*44.001,44,1,CYP2D6_44_001,No function,Limited,0
+CYP2D6*45.001,45,1,CYP2D6_45_001,Normal,Definitive,1
+CYP2D6*45.002,45,2,CYP2D6_45_002,Normal,Definitive,1
+CYP2D6*46.001,46,1,CYP2D6_46_001,Normal,Definitive,1
+CYP2D6*46.002,46,2,CYP2D6_46_002,Normal,Definitive,1
+CYP2D6*47.001,47,1,CYP2D6_47_001,No function,Definitive,0
+CYP2D6*48.001,48,1,CYP2D6_48_001,Normal,Definitive,1
+CYP2D6*49.001,49,1,CYP2D6_49_001,Decreased function,Definitive,0.5
+CYP2D6*50.001,50,1,CYP2D6_50_001,Decreased function,Definitive,0.5
+CYP2D6*51.001,51,1,CYP2D6_51_001,No function,Definitive,0
+CYP2D6*52.001,52,1,CYP2D6_52_001,Uncertain,Limited,0.5
+CYP2D6*53.001,53,1,CYP2D6_53_001,Normal,Limited,1
+CYP2D6*54.001,54,1,CYP2D6_54_001,Decreased function,Limited,0.5
+CYP2D6*55.001,55,1,CYP2D6_55_001,Decreased function,Limited,0.5
+CYP2D6*56.001,56,1,CYP2D6_56_001,No function,Definitive,0
+CYP2D6*56.002,56,2,CYP2D6_56_002,No function,Definitive,0
+CYP2D6*56.003,56,3,CYP2D6_56_003,No function,Definitive,0
+CYP2D6*57.001,57,1,CYP2D6_57_001,No function,Limited,0
+CYP2D6*58.001,58,1,CYP2D6_58_001,Unknown,Definitive,1
+CYP2D6*59.001,59,1,CYP2D6_59_001,Decreased function,Definitive,0.5
+CYP2D6*60.001,60,1,CYP2D6_60_001,No function,Limited,0
+CYP2D6*61.001,61,1,CYP2D6_61_001,Uncertain,Definitive,1
+CYP2D6*62.001,62,1,CYP2D6_62_001,No function,Definitive,0
+CYP2D6*63.001,63,1,CYP2D6_63_001,Uncertain,Definitive,0.5
+CYP2D6*64.001,64,1,CYP2D6_64_001,Uncertain,Definitive,0.5
+CYP2D6*65.001,65,1,CYP2D6_65_001,Uncertain,Limited,1
+CYP2D6*68.001,68,1,CYP2D6_68_001,No function,None,0
+CYP2D6*69.001,69,1,CYP2D6_69_001,No function,Definitive,0
+CYP2D6*70.001,70,1,CYP2D6_70_001,Uncertain,Moderate,0.5
+CYP2D6*71.001,71,1,CYP2D6_71_001,Uncertain,Moderate,1
+CYP2D6*71.002,71,2,CYP2D6_71_002,Uncertain,Definitive,0.5
+CYP2D6*72.001,72,1,CYP2D6_72_001,Decreased function,Limited,0.5
+CYP2D6*73.001,73,1,CYP2D6_73_001,Unknown,Definitive,0.5
+CYP2D6*74.001,74,1,CYP2D6_74_001,Unknown,Definitive,0.5
+CYP2D6*75.001,75,1,CYP2D6_75_001,Uncertain,Moderate,1
+CYP2D6*81.001,81,1,CYP2D6_81_001,Uncertain,Moderate,0.5
+CYP2D6*82.001,82,1,CYP2D6_82_001,Unknown,Moderate,1
+CYP2D6*83.001,83,1,CYP2D6_83_001,Unknown,Definitive,1
+CYP2D6*84.001,84,1,CYP2D6_84_001,Decreased function,Definitive,0.5
+CYP2D6*84.002,84,2,CYP2D6_84_002,Decreased function,Definitive,0.5
+CYP2D6*85.001,85,1,CYP2D6_85_001,Unknown,Definitive,1
+CYP2D6*86.001,86,1,CYP2D6_86_001,Unknown,Definitive,1
+CYP2D6*87.001,87,1,CYP2D6_87_001,Uncertain,Limited,1
+CYP2D6*88.001,88,1,CYP2D6_88_001,Uncertain,Limited,0.5
+CYP2D6*89.001,89,1,CYP2D6_89_001,Uncertain,Limited,1
+CYP2D6*90.001,90,1,CYP2D6_90_001,Uncertain,Limited,1
+CYP2D6*91.001,91,1,CYP2D6_91_001,Uncertain,Limited,1
+CYP2D6*92.001,92,1,CYP2D6_92_001,No function,Limited,0
+CYP2D6*93.001,93,1,CYP2D6_93_001,Uncertain,Limited,1
+CYP2D6*94.001,94,1,CYP2D6_94_001,Uncertain,Limited,0.5
+CYP2D6*94.002,94,2,CYP2D6_94_002,Uncertain,Limited,0.5
+CYP2D6*95.001,95,1,CYP2D6_95_001,Uncertain,Limited,1
+CYP2D6*96.001,96,1,CYP2D6_96_001,No function,Limited,0
+CYP2D6*97.001,97,1,CYP2D6_97_001,Uncertain,Limited,1
+CYP2D6*98.001,98,1,CYP2D6_98_001,Uncertain,Limited,0.5
+CYP2D6*99.001,99,1,CYP2D6_99_001,No function,Definitive,0
+CYP2D6*100.001,100,1,CYP2D6_100_001,No function,Definitive,0
+CYP2D6*101.001,101,1,CYP2D6_101_001,No function,Definitive,0
+CYP2D6*102.001,102,1,CYP2D6_102_001,Unknown,Limited,0.5
+CYP2D6*103.001,103,1,CYP2D6_103_001,Unknown,Limited,1
+CYP2D6*104.001,104,1,CYP2D6_104_001,Unknown,Limited,0.5
+CYP2D6*105.001,105,1,CYP2D6_105_001,Unknown,Limited,0.5
+CYP2D6*106.001,106,1,CYP2D6_106_001,Unknown,Definitive,1
+CYP2D6*107.001,107,1,CYP2D6_107_001,Unknown,Limited,1
+CYP2D6*108.001,108,1,CYP2D6_108_001,Unknown,Definitive,1
+CYP2D6*109.001,109,1,CYP2D6_109_001,Unknown,Definitive,0.5
+CYP2D6*110.001,110,1,CYP2D6_110_001,Unknown,Limited,0.5
+CYP2D6*111.001,111,1,CYP2D6_111_001,Unknown,Limited,0.5
+CYP2D6*112.001,112,1,CYP2D6_112_001,Unknown,Limited,1
+CYP2D6*113.001,113,1,CYP2D6_113_001,Unknown,Limited,0.5
+CYP2D6*114.001,114,1,CYP2D6_114_001,No function,Limited,0
+CYP2D6*115.001,115,1,CYP2D6_115_001,Unknown,Definitive,0.5
+CYP2D6*116.001,116,1,CYP2D6_116_001,Unknown,Definitive,1
+CYP2D6*117.001,117,1,CYP2D6_117_001,Unknown,Definitive,0.5
+CYP2D6*118.001,118,1,CYP2D6_118_001,Unknown,Definitive,1
+CYP2D6*119.001,119,1,CYP2D6_119_001,Unknown,Definitive,1
